@@ -2,5 +2,6 @@ WelcomeNewPlayer Permet De Souhaiter La Bienvenue Aux Joueurs Qui Se Son Jamais 
 
 Le script au cas ou :)
 
-on first join:
-    broadcast "§fDites Bienvenue À §d%player%§f, Il Est Nouveau Sur Le Serveur !"
+Re télécharge le !
+
+Aucun crédit nécessaire !
