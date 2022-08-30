@@ -1,4 +1,4 @@
-WelcomeNewPlayer Permet De Souhaiter La Bienvenue Aux Joueurs Qui Se Son Jamais Connecter Sur Le Serveur Auparavant !
+WelcomeNewPlayer permet de souhaiter la bienvenue aux joueurs qui se sont jamais connecter sur le serveur auparavant !
 
 Le script au cas ou :)
 
